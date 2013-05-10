@@ -1,0 +1,11 @@
+Logic Circuit Builder
+-----------------------------------------------
+Authors: Abhijith V Mohan
+		 Prakhar Jain
+-----------------------------------------------
+Done as software project in 4th semester
+-----------------------------------------------
+Description:
+This is a simple logic circuit builder/simulator. It allows the user to build logic circuits by dragging and dropping various circuit elements(Gates, outputs and inputs).
+This was implemented in JAVA using the Swing GUI Toolkit.
+The operation of the software is fairly intuitive. More descriptive documentation is provided in simulator.pdf, which is the project report for this project.
